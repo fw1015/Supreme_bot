@@ -6,7 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import timeit
 
-full_name = "Wan Fong Ching Founder"
+full_name = "xxxxxxxxxxx"
 email = "xxxxxxxx@gmail.com"
 
 options = Options()
