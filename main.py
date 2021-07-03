@@ -7,7 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import timeit
 
 full_name = "Wan Fong Ching Founder"
-email = "founder101598@gmail.com"
+email = "xxxxxxxx@gmail.com"
 
 options = Options()
 options.add_argument('--headless')
